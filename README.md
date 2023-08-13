@@ -25,11 +25,9 @@ The following are my solutions to the code challenges taken during this course
 
 - [Portfolio card sample](https://codesandbox.io/s/bitter-forest-frz637?file=/src/App.js)
   - A really simple component project displaying a portfolio card
-- [Date counter] (https://codesandbox.io/s/react-challenge-date-counter-final-v1-bmv1bc)
+- [Date counter](https://codesandbox.io/s/react-challenge-date-counter-final-v1-bmv1bc)
   - A simple project to utilize the principle of REACT state and updating state
   - The counter will reveal the date and message based on user input
-- [Tip Calculator] (https://codesandbox.io/s/goofy-sunset-g9phq7?file=/src/App.js)
+- [Tip Calculator](https://codesandbox.io/s/goofy-sunset-g9phq7?file=/src/App.js)
   - Uses multiple components and data arrays that work together and change with user input
   - Calculate tip based on your and a friend's experience
-
-# udemy-react-course
