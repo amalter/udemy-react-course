@@ -1,4 +1,4 @@
-import { useState } from "../../usepopcorn/node_modules/@types/react";
+import { useState } from "react";
 const initialFriends = [
   {
     id: 118836,
@@ -71,6 +71,7 @@ export default function App() {
         <FormSplitBill
           selectedFriend={selectedFriend}
           onSplitBill={handleSplitBill}
+          key={selectedFriend.id}
         />
       )}
     </div>
