@@ -18,6 +18,9 @@ The following are projects I built along with the course videos.
 - [04 - Eat-n-split](https://github.com/amalter/udemy-react-course/tree/main/04-eat-n-split)
   - A tool for keeping track of what you and your friends owe eachother for spliting restaurant bills
   - Practicing combining multiple components and state
+- [05 - usepopcorn](https://github.com/amalter/udemy-react-course/tree/main/05-usepopcorn)
+  - A small app that searches the OMDB
+  - Practicing fetching and handeling data from external source
 
 ## Code Challenges
 
@@ -31,3 +34,5 @@ The following are my solutions to the code challenges taken during this course
 - [Tip Calculator](https://codesandbox.io/s/goofy-sunset-g9phq7?file=/src/App.js)
   - Uses multiple components and data arrays that work together and change with user input
   - Calculate tip based on your and a friend's experience
+- [Currancy Converter](https://github.com/amalter/udemy-react-course/tree/main/currancy-converter-challenge)
+  - simple app for converting currancy
